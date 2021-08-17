@@ -5,7 +5,7 @@ baseurl                 = "https://brianolliff.com/"
 DefaultContentLanguage  = "en"
 title                   = "Brian Olliff"
 theme                   = "future-imperfect"
-paginate                = 5
+paginate                = 7
 disqusShortname         = ""
 googleAnalytics         = "G-33LL5D8PST"
 pluralizeListTitles     = false
@@ -126,12 +126,12 @@ disableLanguages        = []
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "contact"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+ # [[menu.main]]
+ #   name              = "Contact"
+ #   identifier        = "contact"
+ #   url               = "contact"
+ #   pre               = "<i class='far fa-envelope'></i>"
+ #   weight            = 6
 
 [Languages]
 
