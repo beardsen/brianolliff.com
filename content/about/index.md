@@ -17,4 +17,5 @@ Any other questions, feel free to drop me an email!
 * [Twitter](https://twitter.com/beardsengaming)
 * [YouTube](https://www.youtube.com/channel/UCTSO4xg2aIkKwILGBKOn37Q)
 * [Twitch](https://twitch.tv/beardsengaming)
+* [Patreon](https://www.patreon.com/beardsengaming)
 * [Email](mailto:brian@brianolliff.com)

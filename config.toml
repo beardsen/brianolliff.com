@@ -187,5 +187,6 @@ disableLanguages        = []
   researchgate          = ""
   keybase               = ""
   mastodon              = ""
+  patreon               = "beardsengaming"
   # Email
   email                 = "brian@brianolliff.com"
